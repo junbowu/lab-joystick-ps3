@@ -10,7 +10,7 @@
 .canvas {
     width: 700px;
     height: 600px;
-    margin: 0 auto;
+    margin: 4em auto;
 }
 .controller * {
     font-family: Verdana;
@@ -430,4 +430,15 @@
     text-shadow: 2px 2px #151515;
     right: 126px;
     bottom: 22px;
+}
+
+
+
+footer {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
 }
